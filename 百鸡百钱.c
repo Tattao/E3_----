@@ -8,7 +8,7 @@ int main()
         {
             z=100-x-y;
             if(z%3==0&&x*5+y*3+z/3==100)
-            printf("¹«¼¦£º %d£¬Ä¸¼¦:  %d,Ð¡¼¦: %d\n",x,y,z);
+            printf("gj£º %d£¬mj:  %d,xj: %d\n",x,y,z);
         }
     }
     getch();
